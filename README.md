@@ -10,7 +10,7 @@ This is my personal portfolio website, showcasing my projects, skills, and exper
 
 ## **🚀 Live Demo**
 
-[🔗 View Live Portfolio](#) _(Replace with your actual link)_
+[🔗 View Live Portfolio](https://vyom-gor-portfolio.vercel.app/)
 
 ![Portfolio Screenshot](/public/screenshots/Screenshot%202025-03-18%20125930.png)
 
